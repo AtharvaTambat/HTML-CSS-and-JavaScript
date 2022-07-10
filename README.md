@@ -1,2 +1,2 @@
-# HTML-CSS-and-JavaScript-for-Web-Developers---Coursera
+# HTML-CSS-and-JavaScript
 Repository for the course - HTML, CSS and JavaScript
